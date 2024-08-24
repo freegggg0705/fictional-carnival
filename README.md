@@ -2,3 +2,7 @@
 
 #More guides about github page: You can create github page by .md format
 https://tomcam.github.io/least-github-pages/
+
+#About how to create folder in github: Simply click to create new file then in the name you type in your folder name with"/" at the end. Then you have to first create a file since "Git doesn't recognize empty directories"
+https://github.com/orgs/community/discussions/22534 <--tutorial
+https://github.com/tomcam/least-github-pages/blob/master/docs/adding-assets-directory-github-pages.md <--about add image to github page
