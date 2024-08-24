@@ -5,4 +5,4 @@ https://tomcam.github.io/least-github-pages/
 
 #About how to create folder in github: Simply click to create new file then in the name you type in your folder name with"/" at the end. Then you have to first create a file since "Git doesn't recognize empty directories" <br />
 https://github.com/orgs/community/discussions/22534 <--tutorial <br />
-https://github.com/tomcam/least-github-pages/blob/master/docs/adding-assets-directory-github-pages.md <--about add image to github page <br />
+https://github.com/tomcam/least-github-pages/blob/master/docs/adding-assets-directory-github-pages.md [about add image to github page] <br />
