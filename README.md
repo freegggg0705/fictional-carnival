@@ -3,7 +3,9 @@
 #About adding image to your github pages:<br />
 1.Upload your index.html<br />
 2.Create a directory with name same with the asset content folder of your html file with random .md file as start(reference of creation of folder below)<br />
-3.Add files to the directory.
+3.Add files to the directory.<br />
+P.S.embedding of pdf or html or text file is a function in notion only. Files would only be shown as a downloadable link in the html host in github
+
 
 #About how to create folder in github: Simply click to create new file then in the name you type in your folder name with"/" at the end. Then you have to first create a file since "Git doesn't recognize empty directories" <br />
 https://github.com/orgs/community/discussions/22534 <--tutorial <br />
